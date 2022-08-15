@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/bwmarrin/discordgo v0.23.3-0.20211228023845-29269347e820
-	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/gdamore/tcell/v2 v2.4.0
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/kpawlik/geojson v0.0.0-20171201195549-1a4f120c6b41
@@ -16,7 +16,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/spf13/viper v1.10.1
 	github.com/streadway/amqp v1.0.0
-	github.com/urfave/cli/v2 v2.4.0
+	github.com/urfave/cli/v2 v2.11.2
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	nhooyr.io/websocket v1.8.7
 )
@@ -54,6 +54,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/ugorji/go/codec v1.2.7 // indirect
+	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	golang.org/x/crypto v0.0.0-20220313003712-b769efc7c000 // indirect
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
 	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
